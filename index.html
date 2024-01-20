@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculadora de Rendimento Acadêmico</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Calculadora de Rendimento Acadêmico</h1>
+
+        <form id="calculatorForm">
+            <label for="av1">AV1:</label>
+            <input type="number" step="0.1" id="av1" required>
+
+            <label for="av2">AV2:</label>
+            <input type="number" step="0.1" id="av2" required>
+
+            <label for="av3">AV3:</label>
+            <input type="number" step="0.1" id="av3" required>
+
+            <button type="button" onclick="calculate()">Calcular</button>
+
+            <div id="result"></div>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
