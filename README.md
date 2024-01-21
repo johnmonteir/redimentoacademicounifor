@@ -1,6 +1,6 @@
 # Calculadora de Rendimento Acadêmico
 
-Este projeto consiste em uma Calculadora de Rendimento Acadêmico desenvolvida para facilitar o cálculo do desempenho dos alunos com base nas avaliações acadêmicas (AV1, AV2 e AV3) seguindo as regras da ma instituição de ensino UNIFOR, de acordo com o Sistema de Avaliação da Universidade de Fortaleza: https://unifor.br/web/graduacao/sistema-de-avaliacao.
+Este projeto consiste em uma Calculadora de Rendimento Acadêmico desenvolvida para facilitar o cálculo do desempenho dos alunos com base nas avaliações acadêmicas (AV1, AV2 e AV3) seguindo as regras da instituição de ensino UNIFOR, de acordo com o Sistema de Avaliação da Universidade de Fortaleza: https://unifor.br/web/graduacao/sistema-de-avaliacao.
 
 ## Recursos Principais
 
